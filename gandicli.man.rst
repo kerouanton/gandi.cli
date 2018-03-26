@@ -98,6 +98,9 @@ Namespaces:
 *  dns keys recover        Recover deleted key for a domain.
 *  dns list                Display records for a domain.
 *  dns update              Update record entry for a domain.
+*  dnssec create           Create DNSSEC key.
+*  dnssec delete           Delete DNSSEC key.
+*  dnssec list             List DNSSEC keys.
 *  docker                  Manage docker instances.
 *  domain create           Buy a domain.
 *  domain renew            Renew a domain.
